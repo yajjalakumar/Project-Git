@@ -386,7 +386,7 @@
         "Type": "Package",
         "Encoding": "UTF-8",
         "Title": "HTTP and WebSocket Server Library",
-        "Version": "1.6.5",
+        "Version": "1.5.5",
         "Authors@R": "c(\n    person(\"Joe\", \"Cheng\", role = c(\"aut\"), email = \"joe@rstudio.com\"),\n    person(\"Winston\", \"Chang\", role = c(\"aut\", \"cre\"), email = \"winston@rstudio.com\"),\n    person(family = \"RStudio, PBC\", role = \"cph\"),\n    person(\"Hector\", \"Corrada Bravo\", role = \"ctb\"),\n    person(\"Jeroen\", \"Ooms\", role = \"ctb\"),\n    person(\"Andrzej\", \"Krzemienski\", role = \"cph\", comment = \"optional.hpp\")\n    )",
         "Copyright": "RStudio, PBC; Joyent, Inc.; Nginx Inc.; Igor Sysoev; Niels\nProvos; Internet Systems Consortium, Inc.; Alexander Chemeris;\nBerkeley Software Design; Google Inc.; Sony Mobile\nCommunications AB; Alexander Peslyak; Free Software Foundation,\nInc.; X Consortium; Ben Noordhuis; StrongLoop, Inc.; Saúl\nIbarra Corretgé; Bert Belder; Fedor Indutny; libuv project;\nRefael Ackermann; Kenneth MacKay; Emergya; Diego Pettenò; xine\nproject, The Regents of the University of California, Dariusz\nDwornikowski",
         "Description": "Provides low-level socket and protocol support for handling\n    HTTP and WebSocket requests directly from within R. It is primarily\n    intended as a building block for other packages, rather than making it\n    particularly easy to create complete web applications using httpuv alone.\n    httpuv is built on top of the libuv and http-parser C libraries, both of\n    which were developed by Joyent, Inc. (See LICENSE file for libuv and\n    http-parser license information.)",
